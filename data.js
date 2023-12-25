@@ -119,8 +119,8 @@ export default [
     cover: "img.jpg",
     file: "20.mp3",
   },{
-    title:"21 - Red Bull,
-    artist: "edu Lopes",
+    title:"21 - Red Bull",
+    artist: "Nedu Lopes",
     cover: "img.jpg",
     file: "21.mp3",
   }
