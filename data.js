@@ -118,5 +118,10 @@ export default [
     artist: "Denys Victoriano",
     cover: "img.jpg",
     file: "20.mp3",
+  },{
+    title:"21 - Red Bull,
+    artist: "edu Lopes",
+    cover: "img.jpg",
+    file: "21.mp3",
   },
 ];
