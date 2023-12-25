@@ -123,5 +123,5 @@ export default [
     artist: "edu Lopes",
     cover: "img.jpg",
     file: "21.mp3",
-  },
+  }
 ];
